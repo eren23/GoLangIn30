@@ -63,8 +63,6 @@ func Map(vs []string, f func(string) string) []string {
 func main() {
 	//Here we try out our various collection functions.
 
-
-
     var strs = []string{"peach", "apple", "pear", "plum"}
 
     fmt.Println(Index(strs, "pear"))
