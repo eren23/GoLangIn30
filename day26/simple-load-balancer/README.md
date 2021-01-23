@@ -1,3 +1,3 @@
 # DAY26
 
-Load balancer implementation tutorial half way through
+Load balancer implementation from a [tutorial](https://kasvith.me/posts/lets-create-a-simple-lb-go/) half way through
